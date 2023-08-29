@@ -1,0 +1,945 @@
+NS3*Q->bu
+QP->NS3*Q
+NS3->ihtiyaç
+NPSUB->QP NS3
+ADV->nereden
+ADVP->ADV
+VS->kaynaklan
+VPSSUB->NPSUB ADVP VS
+TPMG->dı
+VP->VPSSUB TPMG
+S->VP
+NS3->ağ
+NP->NS3
+NS1->kaynak
+NPS3*C->NP NS1
+PLPMG->lar
+NPS1*C->NPS3*C PLPMG
+NCM->ın
+NPS3->NPS1*C NCM
+ACC->ı
+NPACC->NPS3 ACC
+VS->kullan
+VPS->NPACC VS
+NDMB->an
+NP->VPS NDMB
+NS3->uygulama
+NPRED->NS3
+S->NP NPRED
+NS3*Q->bir
+NS3->cevap
+NP->QP NS3
+VS->bekl
+VPS->NP VS
+<Tns:Pres><Cpl:Past><Prsn:3s>->iyordu
+TPMG-><Tns:Pres><Cpl:Past><Prsn:3s>
+VP->VPS TPMG
+VS->iste
+NDM->diğ
+NPS3->VS NDM
+PLPMGB->iniz
+QP->NPS3 PLPMGB
+NS1->ayar
+NPS3->QP NS1
+NPS2->NPS3 PLPMG
+NPACC->NPS2 ACC
+VS->değiş
+VMG->tir
+VPS->VPS VMG
+TPMG->in
+NS2->neden
+NPS1->QP NS2
+CMGB->le
+NPC->NPS1 CMGB
+ADVP->NPC
+NS3*Q->o
+NS1->haber
+PLPMGB->ler
+NPS1->NPS3 PLPMGB
+ACC->i
+NPACC->NPS1 ACC
+NS2->merak
+CMGB->la
+NPC->NS2 CMGB
+VS->oku
+VPS->ADVP NPACC ADVP VS
+<Tns:Narr><Cpl:Past><Prsn:1s>->muştum
+TPMG-><Tns:Narr><Cpl:Past><Prsn:1s>
+ADV->yine
+NS1->can
+PLPMGB->ım
+NP->NS1 PLPMGB
+VS->sıkıl
+VPS->ADVP NP VS
+NS2->yığın
+QP->NPC
+NS1->uğraş
+PLPMGB->ı
+NP->NPS3 PLPMGB
+NS3->var
+NS2*3S->sistem
+GEN->in
+NPGEN*3S->NS2*3S GEN
+NS1->ön
+NPS3*3S->NPGEN*3S NS1
+PLPMG*3S->ü
+NPSUB->NPS3*3S PLPMG*3S
+NS3->açık
+TPMG->tır
+NPRED->NS3 TPMG
+S->NPSUB NPRED
+NS2->görünüm
+ACC->ü
+NPACC->NS2 ACC
+VS->yenile
+NDM->me
+NPS1->VPS NDM
+ACC->yi
+VS->dene
+TPMG->yin
+NS3*Q->sağlıklı
+NS2->beslenme
+DAT->ye
+NPDAT->NPS1 DAT
+ADVP->NPDAT
+VS->gayret et
+VPS->ADVP VS
+<Tns:Past><Prsn:1s>->tim
+TPMG-><Tns:Past><Prsn:1s>
+NS2->şans
+NDM->ma
+ACC->yı
+VS->sev
+<Tns:Pres><Prsn:1s>->iyorum
+TPMG-><Tns:Pres><Prsn:1s>
+NS3->teleferik
+NS2->yolculuğ
+NPS1*C->NP NS2
+NCMB->u
+NPSUB->NPS1*C NCMB
+NS3*Q->beş
+NS3->dakika
+VS->sür
+VPSSUB->NPSUB NP VS
+TPMG->üyor
+NS3->içki
+NPSUB->NS3
+NS1->çene
+PLPMG->sin
+NPS1->NS1 PLPMG
+DAT->e
+VS->vur
+<Tns:Narr><Cpl:Past><Prsn:3s>->muştu
+TPMG-><Tns:Narr><Cpl:Past><Prsn:3s>
+ADV->çok
+VS->teşekkür ed
+NS3->büyükbaba
+ADV->burada
+NS2->ev
+CMGB->de
+ADVP->ADVP ADVP
+VS->uyu
+TPMG->yor
+ADV->sabah
+NS3*Q->saat
+NS2->dörd
+POST->doğru
+ADVP->NPDAT POST
+NPDAT->NS2 DAT
+ADVP->ADVP ADVP ADVP
+VS->dön
+TPMG->dü
+NS3->biz
+NS1->soru
+PLPMG->muz
+DAT->a
+<Tns:Opt><Prsn:1p>->elim
+TPMG-><Tns:Opt><Prsn:1p>
+NS3->ileti
+NS2*3S->gövde
+NPS1*3S,C->NP NS2*3S
+NCM->sin
+NPS3*3S->NPS1*3S,C NCM
+NPGEN*3S->NPS3*3S GEN
+NS1->boyut
+PLPMG*3S->un
+NPS1->NPS3*3S PLPMG*3S
+ACC->u
+NS3->bayt
+VS->ol
+ADMB->arak
+ADVP->VPS ADMB
+VS->görüntüle
+VPS->NPACC ADVP VS
+TPMG->r
+NS3->zina
+NS3*Q->son
+POST->derece
+QP->NS3*Q POST
+NS3->onurlu
+NPS3->QP NS3
+TPMG->dur
+NPRED->NPS3 TPMG
+NS3->ekran
+NS1->çözünürlüğ
+NPS1*C->NP NS1
+NCM->ün
+CONJ->ve
+NS3->renk
+NS1->kalite
+NPACC->NPACC CONJ NPACC
+VS->seç
+NS3->klasör
+ADV->yeniden
+VS->yönlendir
+VMG->il
+NDMB->en
+NS1->konum
+NPS3->NP NS1
+PLPMG->un
+NPS1->NPS3 PLPMG
+CMGB->da
+VS->kal
+TPMG->ır
+NS3*Q->yüksek
+NS1->rezerv
+NPS3->NS3*Q NS1
+PLPMG->in
+NS2->kur
+NS2->denge
+VS*IMP->tut
+VP->ADVP NPACC ADVP VS*IMP
+NS3*Q->zavallı
+NS3*Q->genç
+QP->QP QP
+NS2->kadın
+NS3->nefes
+VS->al
+VPS->NPDAT NP VS
+<Caus><VS><Pol:Neg>->dırm
+VMG-><Caus><VS><Pol:Neg>
+<Tns:Pres><Cpl:Past><Prsn:3s>->ıyordu
+NS3->ben
+VPSSUB->NPSUB VS
+<Tns:Past><Prsn:1s>->dım
+CONJ->ama
+NS3*Q->tek
+NS3->örnek
+NS3->değil
+TPMG->im
+S->CONJ NPSUB NPRED
+NS1->iş
+NPSUB->NS1 PLPMGB
+ADV->iyi
+VS->git
+VMG->m
+VPSSUB->VPSSUB VMG
+S->CONJ VP
+NS3*Q->mermer
+NS3->beyaz
+NPS3*C->QP NS3
+NDM->lığ
+NPS1*C->NPS3*C NDM
+NPC->NPS3 CMGB
+NDMB->ki
+QP->NPC NDMB
+NS1->kol
+<Num:Pl><Poss:3s><Case:Nom>->ları
+PLPMGB-><Num:Pl><Poss:3s><Case:Nom>
+NS1->dirsek
+<Num:Pl><Poss:3s>->lerin
+PLPMG-><Num:Pl><Poss:3s>
+POST->kadar
+NS3->çıplak
+TPMG->tı
+S->NP ADVP NPRED
+ADV->birden
+NS2->patlama
+VS->andır
+QP->VPS NDMB
+NS3*Q->korkunç
+NS2->ses
+VS->duy
+VPS->ADVP NPACC VS
+<Tns:Past><Prsn:1s>->dum
+VS->önizle
+NDMB->me
+NP->VS NDMB
+NS2->ekran
+NS2->bir
+CMGB->den
+AQP->NPC
+NS3*Q->çok
+QP->AQP NS3*Q
+NS3->sayfa
+NS2*3S->yatırım
+GEN->ın
+NS3*Q->bugünkü
+NS1->değer
+NPS3*3S->NPGEN*3S NPS3
+PLPMG*3S->in
+NPS1*3S->NPS3*3S PLPMG*3S
+NPACC->NPS1*3S ACC
+VS->ver
+TPMG->ir
+VS->ist
+NS3->hata
+CONJ->da
+VS->yap
+VPS->NP CONJ VS
+<Pol:Pos><Tns:Aor><Prsn:3s>->abilir
+TPMG-><Pol:Pos><Tns:Aor><Prsn:3s>
+VS->birik
+QP->VS NDMB
+NS2*3S->günlüğ
+GEN->ün
+NS1->içeriğ
+NPS3*3S->QP NPGEN*3S NS1
+NPS3->NPS3*3S PLPMG*3S
+VS->sil
+TPMG->er
+NS3*Q->her
+NS2->yer
+VS->di
+<Tns:Pres><Prsn:1s>->yorum
+NS1->arkadaş
+<Num:Pl><Poss:1s><Case:Nom>->larım
+PLPMGB-><Num:Pl><Poss:1s><Case:Nom>
+NS3->makina
+POST->gibi
+NS3->şey
+NPS3->NP POST NS3
+TPMG->ler
+NS2*3S->ay
+NS1->bitki
+PLPMG*3S->sin
+ADV->bir
+VS->göz at
+TPMG->ın
+NS1->saat
+NPS1->QP NS1
+PLPMG->ler
+NPS1->NPS1 PLPMG
+ADV->genellikle
+ADV->böyle
+<Tns:Aor><Cpl:Past><Prsn:1s>->ardım
+TPMG-><Tns:Aor><Cpl:Past><Prsn:1s>
+VS->yarala
+VMG->n
+NDM->an
+NPS3*3S->VPS NDM
+NPS1*3S->NPS3*3S PLPMG
+NPGEN*3S->NPS1*3S GEN
+ADV->asla
+VS->yaşa
+<Abil><Pol:Neg>->yama
+VMG-><Abil><Pol:Neg>
+NDM->yacağ
+NPS3->VPS NDM
+PLPMG*3S->ın
+VS->düşün
+<Tns:Aor><Cpl:Past><Prsn:1s>->ürdüm
+NS2->mevsim
+NS3->şık
+TPMG->ur
+NS3->bu
+AQP->NS3*Q
+NS3*Q->iyi
+NS3->adam
+TPMG->dır
+NS3->siz
+NS3->ne
+VS->de
+<Tns:Aor><Prsn:2p>->rsiniz
+TPMG-><Tns:Aor><Prsn:2p>
+ADV->kah
+VS->sevin
+TPMG3S->ir
+VP3S->VPS TPMG3S
+VS->kahrol
+<Tns:Aor><Prsn:2p>->ursunuz
+S->VP3S VP
+VS->at
+NDM->tığ
+NS3*Q->ilk
+NS3->adım
+VS*IMP->pek
+QP->VS*IMP
+NS1->başarı
+NDMB->lı
+NP->NPS3 NDMB
+VPS->NP NP VS
+TPMG->du
+NS2->zina
+NPSUB->NS2
+NS2->on
+NS1->şaşkın
+NDM->lık
+NPS1->NS1 NDM
+VS->bak
+NS3*Q->böyle
+NS3->inceleme
+NS3->soruşturma
+NPSUB->QP NS3 CONJ NS3
+NS3->yok
+TPMG->muş
+NS1->belediye
+VS->sahip çık
+VMG->ma
+TPMG->mış
+NS1->kendi
+PLPMG->m
+VS->tut
+TPMG1S->uyor
+VP1S->VPS TPMG1S
+NS2->dikkat
+VS->dinl
+<Tns:Pres><Cpl:Past><Prsn:1s>->iyordum
+TPMG-><Tns:Pres><Cpl:Past><Prsn:1s>
+S->VP1S VP
+NS2->ayağ
+CMGB->a
+VS->kalk
+ADV->belki
+ADV->hiç
+CONJ->de
+VS->iç
+VPS->ADVP NP CONJ VS
+<Tns:Pres><Prsn:3p><Cpl:Past>->iyorlardı
+TPMG-><Tns:Pres><Prsn:3p><Cpl:Past>
+NS1->tasarım
+NDM->cı
+NCMB->sı
+NS2->düğme
+NS3->özel
+VDM->leş
+VPS->NS3 VDM
+VPSSUB->NPSUB NPACC VPS
+TPMG->miş
+NS2->kamyon
+VPSSUB->NPSUB NPACC VS
+VMG->ebil
+VPS->VPSSUB VMG
+<Tns:Aor><Prsn:1s>->irim
+TPMG-><Tns:Aor><Prsn:1s>
+VPS->S VS
+TPMG->di
+ADV->nasıl
+PLPMG->im
+VS->anlat
+VPS->NPACC CONJ VS
+<Tns:Past><Prsn:1s>->tım
+TPMG->dir
+ADV->onsuz
+NS2->herkes
+NS3->sıkıntı
+VS->bas
+<Tns:Fut><Cpl:Past><Prsn:3s>->acaktı
+TPMG-><Tns:Fut><Cpl:Past><Prsn:3s>
+NS3->belediye
+NS2->onay
+NPS3*C->NP NS2
+NPS3->NPS3*C NCM
+<Tns:Pres><Prsn:1p>->iyoruz
+TPMG-><Tns:Pres><Prsn:1p>
+NS3->kitaplık
+ADV->doğru
+VS->yapılan
+<Caus><VS><Pasv><Pol:Pos>->dırıl
+VMG-><Caus><VS><Pasv><Pol:Pos>
+CONJ->ancak
+ADV->düzgün
+VS->çalış
+TPMG->ıyor
+S->S CONJ S
+NS3->kimse
+CMGB->dan
+VS->hoşlan
+<Tns:Aor><Cpl:Past><Prsn:3s>->zdı
+TPMG-><Tns:Aor><Cpl:Past><Prsn:3s>
+VS->sağla
+NDM->dığ
+PLPMGB->ınız
+NS3->parola
+NS2->bilgi
+NPS1*C->QP NPS1*C
+NCMB->si
+NP->NPS1*C NCMB
+VS->yok say
+VMG->ıl
+NS3->güncel
+VS->gizle
+<Tns:Narr><Cpl:Past><Prsn:1s>->miştim
+ADV->şimdi
+VS->yükle
+NDMB->mek
+VS->eşle
+<Rcpr><VS><Caus><VS><Pasv><Pol:Pos>->ştiril
+VMG-><Rcpr><VS><Caus><VS><Pasv><Pol:Pos>
+VPS->VS VMG
+NS2->sürücü
+NPS1*C->QP QP NPS1*C
+NCM->sün
+NPS2->NPS3 CMGB
+QP->NPS2 NDMB
+NS1->dosya
+VS->eriş
+<Abil><Pol:Neg>->em
+NS3*Q->geçerli
+NS2->durum
+<Pasv><VS><Abil><Pol:Pos>->ılabil
+VMG-><Pasv><VS><Abil><Pol:Pos>
+NS1->ağ
+NPGEN*3S->NPS1 GEN
+NS1->liste
+PLPMGB*3S->si
+NP->NPS3*3S PLPMGB*3S
+PLPMG->ım
+QP->NPS3 PLPMG
+NS3->bungalov
+NS2->tepe
+GEN->nin
+NPGEN*3S->NS2 GEN
+NS1->etek
+PLPMG*3S-><Num:Pl><Poss:3s>
+CMG->de
+NPS3->NPS1 CMG
+TPMG->ydi
+NS3*Q->bazı
+NS1->çocuk
+PLPMGB->lar
+NPSUB->NPS3 PLPMGB
+ADV->çabuk
+ADVP->ADV ADV
+NS2->doyum
+VS->ulaş
+NS1->el
+NPS1->NS1 TPMG
+NS1->omz
+TPMG->um
+VS->koy
+NS3->altındağ
+NS1*3S->itirafçı
+NPS1*3P->NS1*3S PLPMG
+NPGEN*3P->NPS1*3P GEN
+NS1->iddia
+NPS3*3P->NPGEN*3P NS1
+<Num:Pl><Poss:3p>->ların
+PLPMG*3P-><Num:Pl><Poss:3p>
+NPS1->NPS3*3P PLPMG*3P
+NS1->kaset
+VS->kayded
+VPSSUB->NPSUB CONJ NPACC ADVP VS
+TPMG->iyor
+NS3->gri
+NS3*Q->nötr
+TPMG->tir
+NS2->hakem
+ADV->aynen
+NS2->fatura
+VS->gönder
+NS3->piyano
+VS->çal
+NPSUB->VPS NDMB
+NS1->bileğ
+NS3->çelik
+VPS->NP VDM
+NPSUB->VPSSUB VMG
+VP->NPSUB TPMG
+NS2*3S->ev
+NS1->hanım
+PLPMG*3S->ı
+NS2->adam
+NS2->yan
+CMG->da
+NPS2->NS2 CMG
+NS2->oda
+DAT->ya
+VS->çağır
+VPSSUB->NPSUB NPACC ADVP VS
+NS1->dede
+PLPMGB->si
+NS3*Q->katı
+NS3*Q->kaba
+QP->QP QP QP
+ADV->özellikle
+NS3->tırnak
+NS1->köşe
+NCMB->i
+ADV->derin
+VS->kes
+VPS->ADVP NP ADVP VS
+<Pasv><VS><Pol:Neg>->ilme
+VMG-><Pasv><VS><Pol:Neg>
+TPMG->meli
+<Tns:Past><Prsn:2p>->tınız
+TPMG-><Tns:Past><Prsn:2p>
+NS2->orkestra
+NS1->popçu
+NS3->ilgi
+VS->göster
+VPSSUB->ADVP NPSUB CONJ NP VS
+NS1->on
+NS1->kim
+VPS->NP ADVP VS
+NS2->ticaret
+VS->uğraş
+NS3->çalışma
+VS->ilerl
+VS->görüş
+NPSUB->VS NDMB
+NS3->çevirmen
+NS1->aracı
+NPS1*C->NS3 NPS1
+NCM->ı
+CMGB->yla
+VS->gerçekle
+VMG->ş
+TPMG->ti
+NS3->otomobil
+NS1->galeri
+NPC->NS1 CMGB
+VPSSUB->ADVP NPSUB ADVP VS
+NS2*3S->bun
+GEN->un
+NS3->bumerang
+NS1->etki
+NPS3*3S->NPGEN*3S CONJ NPS3
+PLPMG*3S->si
+NP->NPS3*3S PLPMG*3S
+VS->hesapla
+VPS->CONJ NP VS
+CONJ->çünkü
+NS3->futbol
+NS1->zengin
+NS1->eğlence
+NS2->hal
+NCM->in
+NPS3*C->NPS1*C NCM
+NPC->NPS3*C DAT
+VS->gel
+VPSSUB->CONJ NPSUB ADVP VS
+NS2->iş
+VS->tanıml
+<Tns:Pres><Prsn:2p>->ıyorsunuz
+VMG-><Tns:Pres><Prsn:2p>
+VP->VPS VMG
+NS3*Q->basit
+NS3->birim
+VS->oluş
+VS->tur
+VPS->VPS VS
+NS2->ban
+VS->vazgeç
+VP->VS TPMG
+NS1->ora
+NS3->tehlike
+TPMG->tu
+NPRED->NP TPMG
+S->CONJ ADVP NPSUB NPRED
+NS1->yüz
+PLPMGB->ü
+VS->gözük
+VMG->me
+NDMB->yecek
+NS2->biçim
+NS1->göğs
+PLPMG->ün
+VS->göm
+VMG->ül
+<Tns:Narr><Cpl:Past><Prsn:3s>->müştü
+NS2->ızgara
+VS->piş
+NS1->balık
+NS3->servis
+NS2->tabağ
+NPDAT->NPS3 DAT
+NS2->paskalya
+NS3->hafta
+S->ADVP NP NPRED
+VS->umursa
+TPMG->z
+ADV->biraz
+NS1->göbeğ
+PLPMGB->im
+VS->çık
+VS->başla
+NS3->konsol
+NS2->pencere
+VMG->in
+NDMB->ecek
+NS2->görev
+VS->tıkla
+VMG->t
+NS3->yardım
+NS1->bilgi
+ADV->günde
+NS3*Q->üç
+NS3->kilometre
+ADVP->ADVP NP
+VS->yürü
+<Tns:Past><Prsn:1s>->düm
+NDM->duğ
+VS->gör
+ADV->gitgide
+NS3->oda
+NS3*Q->hoş
+NS3->görünüş
+VPSSUB->ADVP NPSUB NP VS
+NS2->dosya
+NS3*Q->normal
+NS2->şekil
+VS->aç
+ADMB->ıp
+<Caus><VS><Abil><Pol:Pos>->tirebil
+VMG-><Caus><VS><Abil><Pol:Pos>
+<Tns:Aor><Prsn:2p>->irsiniz
+VS->yönet
+NDMB->ici
+NS2->mod
+VS->varsay
+NS3->mod
+NPS2->QP NS3
+NPRED->NPS2 TPMG
+NDM->mak
+NPS1->VS NDM
+CMGB->tan
+VS->çekin
+TPMG->me
+ADV->daha
+TPMG->sun
+NS3->intikam
+NS2->laf
+NCMB->ı
+VS->unut
+VMG->ul
+TPMG->malı
+ADMB->unca
+NS2->acele
+CMGB->yle
+VS->doğrul
+NS2->nokta
+NS1->yara
+VPSSUB->ADVP CONJ NPSUB VS
+TPMG->uyor
+ADV->hafifçe
+TPMG->un
+CONJ->fakat
+VS->geliş
+NPS3->QP NPS3
+ADV->zamanla
+<Tns:Pres><Cpl:Past><Prsn:3s>->uyordu
+VS->şaşır
+<Tns:Narr><Cpl:Past><Prsn:1s>->mıştım
+NS3->mutlu
+TPMG->yum
+S->ADVP NPRED
+NS1->muhit
+NS3*Q->çeşitli
+NS1->mesele
+VS->canlan
+VMG->dır
+VS->planla
+PLPMG->ınız
+QP->QP CONJ QP
+POST->işte
+NS3*Q->tam
+NS2->sıra
+ADVP->POST ADVP
+NS2->çöl
+VS->kaç
+NS3->bilim
+NS2->dış
+QP->NPS1*C NCMB
+NS1->yöntem
+VS->tenezzül ed
+VS->alış
+NDMB->mış
+NS3->üretim
+S->NPSUB NP NPRED
+NS3*Q->eski
+NS1->kıyafet
+<Num:Pl><Poss:2p>->leriniz
+PLPMG-><Num:Pl><Poss:2p>
+ADV->ne
+<Tns:Aor><Prsn:2p>->arsınız
+NS3->o
+VS->yet
+VPSSUB->NPSUB CONJ VS
+NS3->kim
+VS->öl
+VMG->dür
+NS2->nere
+NS2->ne
+VS->söyle
+NDM->yeceğ
+VS->bil
+NS3->halk
+NS2->çocuğ
+NDMB->mak
+<Tns:Necc><Prsn:2p>->malısınız
+TPMG-><Tns:Necc><Prsn:2p>
+VS->tanı
+<Tns:Pres><Cpl:Past><Prsn:1s>->ıyordum
+NS1->üç
+NDMB->üncü
+QP->NS1 NDMB
+NS3->mektup
+VS->çıkagel
+VPSSUB->ADVP NPSUB CONJ VS
+NS3->fabrika
+VS->kapa
+<Pasv><VS><Pol:Neg>->nma
+NS1->birim
+ADV->yalnızca
+NS3*Q->dinamik
+NS1->disk
+<Caus><VS><Abil><Pol:Pos>->turabil
+NS2->lise
+VS->oyna
+NS3->ödül
+VS->anla
+NDMB->yan
+VS->r
+VP->VPSSUB VS
+NS3->yatak
+NCM->sın
+NS1->ölü
+PLPMG->sün
+VS->bul
+<Tns:Pres><Prsn:3p>->uyorlar
+TPMG-><Tns:Pres><Prsn:3p>
+NS3*Q->karşılıklı
+NS3*Q->iki
+NS2*3S->daire
+NPS1*3S->QP NS2*3S
+NS3*Q->ara
+NS1->duvar
+PLPMGB*3S->ı
+VS->kaldır
+NS1->fikr
+VS->katıl
+NS2*3S->iş
+NS1->taraf
+NPSUB->NPS3*3S PLPMGB*3S
+NS1->sorun
+NDM->lu
+NPS2->NS1 NDM
+S->NPSUB CONJ NPRED
+NS3*Q->cimri
+NS3->biri
+<Prsn:1s><Cpl:Aor>->imdir
+TPMG-><Prsn:1s><Cpl:Aor>
+NS2->yönetim
+VS->gir
+TPMG->ecek
+NS2->ben
+VS->kov
+ADMB->madan
+ADV->sadece
+VS->dinle
+VS->rica ed
+<Tns:Fut><Cpl:Past><Prsn:1s>->ecektim
+TPMG-><Tns:Fut><Cpl:Past><Prsn:1s>
+NS3->ışık
+VS->yan
+ADV->haliyle
+NS2->kişi
+VS->önemse
+<Tns:Narr><Cpl:Past><Prsn:3s>->mişti
+NS3*Q->birebir
+NS1->resim
+NS2->duvar
+VS->geçir
+NS3->prens
+NS3->çocuk
+ADVP->NP POST
+VS->yalvar
+ADV->üstelik
+NS1->meme
+<Num:Pl><Poss:1s><Case:Nom>->lerim
+NS1->salla
+VPS->NP CONJ NS1
+VS->gıdıkl
+VPS->ADVP ADVP NPACC VS
+NS3->aktris
+VS->doğ
+NS1->baba
+PLPMGB->m
+NS2->sen
+VS->döv
+TPMG3S->er
+VP3S->VPSSUB TPMG3S
+VS->dur
+<Tns:Aor><Cpl:Past><Prsn:3s>->urdu
+VS->soy
+ADMB->up
+NS2->ortalık
+VS->kaybol
+NS1*3S->on
+NPS1*3S->NS1*3S PLPMG
+<Num:Pl><Poss:3s><Case:Nom>->leri
+PLPMG*3S-><Num:Pl><Poss:3s><Case:Nom>
+NS3->başka
+TPMG->ydı
+NS3->rol
+NS3*Q->diğer
+NS1->rol
+VS->içer
+NS2->içeri
+NS3->kişi
+ADMB->erek
+ADVP->VS ADMB
+NS3->tabanca
+VPSSUB->ADVP NPSUB ADVP NP VS
+NS3->öyle
+VPS->ADVP CONJ NP VS
+NS2->liste
+NS2->ileti
+NS2*3S->hanım
+NS1->yan
+NPS3*2S->NPGEN*3S NS1
+NPS1->NPS3*2S PLPMG*3S
+NS1->hizmetçi
+NDMB->lik
+NP->NS1 NDMB
+NS2->bun
+NS1->tepki
+VS->anl
+VPS->NPACC ADVP CONJ VS
+<Tns:Pres><Prsn:1s>->ıyorum
+NS1->tutanak
+NS3->ibret
+NS2->belge
+NCM->si
+NS2->tuz
+VS->ekle
+ADMB->yip
+PLPMG->iniz
+NS2->iyi
+ADMB->ce
+ADVP->NS2 ADMB
+VS->karış
+VMG->tır
+ADV->hala
+VS->öner
+VPS->ADVP CONJ VS
+NS1->bacak
+<Num:Pl><Poss:3s>->ların
+NPS1*C->QP NS2
+NPS1->NPS1*C NCM
+NS3*Q->akrilik
+NS2->boya
+NS2->kırmızı
+VS->boya
+NS2->sahil
+<Tns:Past><Prsn:1p>->dük
+TPMG-><Tns:Past><Prsn:1p>
+NS3->kadınlık
+NS2->konu
+NCM->sun
+NS1->ağız
+PLPMG-><Num:Pl><Poss:3p>
+CONJ->bile
+<Tns:Past><Prsn:3p>->dılar
+TPMG-><Tns:Past><Prsn:3p>
